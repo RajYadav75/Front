@@ -1,0 +1,45 @@
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    animation-name: fontAnimation;
+    
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes fontAnimation {
+    from{font-size: 20px;}
+    to{font-size: 40px;}
+}
+
+.one{
+   
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    animation-name: colorAnimate;
+    animation-duration: 6s;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes colorAnimate {
+    /* from{background-color: red;}
+    tp{background-color: blue;} */
+    0%{
+        background-color: green;
+    }
+    50%{
+        background-color: yellow;
+    }
+    100%{
+        background-color: blue;
+    }
+}
+
+/* animation: myName 2s linear 3s infinite normal */
+/* animation:colorAnimate 2s ease-in 0s infinite normal; */

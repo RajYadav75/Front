@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(39, 23, 23, 0.37);
+}
+.fdiv{
+    color:red ;
+}
+#fn {
+    color: blue;
+}
+#ln{
+    color: blueviolet;
+}
+#Selections{
+    background-color: black;
+    color: white;
+}
+.sdiv{
+    background-color: cornflowerblue;
+}
+#opt1{
+    color: yellow;
+}
+#opt2{
+    color: skyblue;
+}
+#opt3{
+    color: gold;
+}
+.tdiv{
+    color: hotpink;
+    background-color: black;
+}
+#lvl{
+    color: rgb(255, 108, 3);
+}
+#cb{
+    color: rgb(230, 14, 194);
+}
+.btnclass{
+    background-color: rgb(65, 3, 3);
+    color: rgb(146, 144, 148);
+}

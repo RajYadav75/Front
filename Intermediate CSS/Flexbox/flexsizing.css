@@ -1,0 +1,5 @@
+#container{
+    flex-basis: 100px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}

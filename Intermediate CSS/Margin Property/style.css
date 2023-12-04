@@ -1,0 +1,20 @@
+div{
+    margin: 50px;
+}
+div{
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+/* button{
+    border: 2px solid pink;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+} */
+/* ShortHand */
+button{
+    margin: 25px; /*all 4 sides*/
+    margin: 10px 20px;/*top&bottom left&right*/
+    margin: 10px 20px 30px;/*top left&right bottom*/
+    margin:10px 20px 30px 40px;/*top right bottom left*/
+}

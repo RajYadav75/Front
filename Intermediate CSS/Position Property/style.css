@@ -1,0 +1,70 @@
+/* Static */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+#static{
+    background-color: yellow;
+    position: static;
+    top: 100;
+    left:100;  they are not work in static
+} */
+
+/* Relative */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+#relative{
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+    left: 100px;
+} */
+
+/* Absolute */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+#absolute{
+    background-color: red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+} */
+
+/* Fixed */
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+
+#fixed{
+    background-color: pink;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}

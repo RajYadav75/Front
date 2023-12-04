@@ -1,0 +1,19 @@
+div{
+    border:5px solid yellow;
+    border-left-color: blue;
+    border-left-style: dashed;
+    
+}
+/* ShortHands */
+div{
+    border-left: 5px dashed blue;
+}
+div{
+    border-right: 5px dashed black;
+}
+div{
+    border-top: 5px dashed red;
+}
+div{
+    border-bottom: 5px dashed pink;
+}

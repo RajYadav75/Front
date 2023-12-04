@@ -1,0 +1,11 @@
+let start = ["January","July","March","August"];
+let final = ["July","June","March","August"];
+let arr = ["January","July","March","August"];
+arr.shift();
+console.log(arr);
+arr.shift();
+console.log(arr);
+arr.unshift("June");
+console.log(arr);
+arr.unshift("July");
+console.log(arr);

@@ -1,0 +1,13 @@
+div{
+    width: 200;
+    height: 50px;
+    text-align: center;
+    background-color: #7aa874;
+    background-image: url(pic.jpg);
+    background-size: contain;
+    /* background-size: cover; */
+    /* background-size: auto; */
+    margin: 10px auto;
+    box-shadow: 2px 2px 10px yellow;
+    /* box-shadow: Xoffset Yoffset blur color; */
+}
